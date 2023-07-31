@@ -88,3 +88,8 @@ nav ul li a {
   display: block;
 }
 
+body {
+  margin: 0 auto;
+  width: 900px;
+}
+
