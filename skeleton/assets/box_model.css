@@ -105,3 +105,6 @@ aside {
   display: inline-block;
 }
 
+.ingredients-list li {
+  margin: 15px;
+}
