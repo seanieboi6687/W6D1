@@ -37,6 +37,11 @@ header > img {
   margin-bottom: 15px;
 }
 
+.directions {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 ol {
   list-style: upper-roman inside;
 }
