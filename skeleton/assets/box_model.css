@@ -33,6 +33,8 @@ header > img {
 
   /* The list style property is shorthand for multiple list-style properties*/
   list-style: square inside;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 ol {
